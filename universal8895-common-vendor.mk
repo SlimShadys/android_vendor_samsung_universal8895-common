@@ -67,6 +67,7 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/universal8895-common/proprietary/lib/hw/audio.primary.universal8895.so:$(TARGET_COPY_OUT_SYSTEM)/lib/hw/audio.primary.universal8895.so \
     vendor/samsung/universal8895-common/proprietary/lib/hw/audio.tms.default.so:$(TARGET_COPY_OUT_SYSTEM)/lib/hw/audio.tms.default.so \
     vendor/samsung/universal8895-common/proprietary/lib/hw/gralloc.exynos5.so:$(TARGET_COPY_OUT_SYSTEM)/lib/hw/gralloc.exynos5.so \
+    vendor/samsung/universal8895-common/proprietary/lib/android.hardware.camera.provider@2.4.so:$(TARGET_COPY_OUT_SYSTEM)/lib/android.hardware.camera.provider@2.4.so \
     vendor/samsung/universal8895-common/proprietary/lib/libExynosOMX_Core.so:$(TARGET_COPY_OUT_SYSTEM)/lib/libExynosOMX_Core.so \
     vendor/samsung/universal8895-common/proprietary/lib/libExynosOMX_Resourcemanager.so:$(TARGET_COPY_OUT_SYSTEM)/lib/libExynosOMX_Resourcemanager.so \
     vendor/samsung/universal8895-common/proprietary/lib/libGrallocWrapper.so:$(TARGET_COPY_OUT_SYSTEM)/lib/libGrallocWrapper.so \
@@ -108,6 +109,7 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/universal8895-common/proprietary/lib64/android.hardware.nfc@1.0.so:$(TARGET_COPY_OUT_SYSTEM)/lib64/android.hardware.nfc@1.0.so \
     vendor/samsung/universal8895-common/proprietary/lib64/android.hardware.nfc@1.1.so:$(TARGET_COPY_OUT_SYSTEM)/lib64/android.hardware.nfc@1.1.so \
     vendor/samsung/universal8895-common/proprietary/lib64/hw/gralloc.exynos5.so:$(TARGET_COPY_OUT_SYSTEM)/lib64/hw/gralloc.exynos5.so \
+    vendor/samsung/universal8895-common/proprietary/lib64/android.hardware.camera.provider@2.4.so:$(TARGET_COPY_OUT_SYSTEM)/lib64/android.hardware.camera.provider@2.4.so \
     vendor/samsung/universal8895-common/proprietary/lib64/libExynosOMX_Core.so:$(TARGET_COPY_OUT_SYSTEM)/lib64/libExynosOMX_Core.so \
     vendor/samsung/universal8895-common/proprietary/lib64/libExynosOMX_Resourcemanager.so:$(TARGET_COPY_OUT_SYSTEM)/lib64/libExynosOMX_Resourcemanager.so \
     vendor/samsung/universal8895-common/proprietary/lib64/libGrallocWrapper.so:$(TARGET_COPY_OUT_SYSTEM)/lib64/libGrallocWrapper.so \
